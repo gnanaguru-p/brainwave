@@ -1,0 +1,6 @@
+![Screenshot 2024-07-05 191147](https://github.com/gnanaguru-p/brainwave/assets/140615322/3fa5cfec-4ff0-4b1b-985e-7c206b0f4adc)
+![Screenshot 2024-07-05 191206](https://github.com/gnanaguru-p/brainwave/assets/140615322/a8336040-cde8-41bc-aa15-bb715dc6152a)
+![Screenshot 2024-07-05 191221](https://github.com/gnanaguru-p/brainwave/assets/140615322/3d6e582e-719e-4997-bb42-b3d6364220a0)
+![Screenshot 2024-07-05 191249](https://github.com/gnanaguru-p/brainwave/assets/140615322/1ee4968a-73ed-454c-9f52-530af444096e)
+![Screenshot 2024-07-05 191323](https://github.com/gnanaguru-p/brainwave/assets/140615322/ed420d83-d1ae-45b8-987b-215a93f953f4)
+![Screenshot 2024-07-05 191340](https://github.com/gnanaguru-p/brainwave/assets/140615322/dea43039-c368-4ba2-909b-996443ed196a)
