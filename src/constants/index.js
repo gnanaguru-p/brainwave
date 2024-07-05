@@ -8,7 +8,6 @@ import {
   disc02,
   discord,
   discordBlack,
-  linkedin,
   facebook,
   figma,
   file02,
@@ -297,16 +296,33 @@ export const benefits = [
 
 export const socials = [
   {
+    id: "0",
+    title: "Discord",
+    iconUrl: discordBlack,
+    url: "#",
+  },
+  {
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "https://x.com/Guru_Developer",
+    url: "#",
   },
   {
     id: "2",
-    title: "Linkedin",
-    iconUrl: linkedin,
-    url: "https://www.linkedin.com/in/gnanaguru-p/",
+    title: "Instagram",
+    iconUrl: instagram,
+    url: "#",
   },
-  
+  {
+    id: "3",
+    title: "Telegram",
+    iconUrl: telegram,
+    url: "#",
+  },
+  {
+    id: "4",
+    title: "Facebook",
+    iconUrl: facebook,
+    url: "#",
+  },
 ];
